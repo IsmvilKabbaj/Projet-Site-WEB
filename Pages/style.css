@@ -1,0 +1,55 @@
+.LeftStyle{
+    text-align: left;
+}
+
+.CenterStyle{
+    color:white;
+    font-family: Optima, sans-serif;
+    text-align: center;
+    margin: auto;
+}
+.CenterGreenStyle{
+    color:green;
+    font-family: Optima, sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+.EndStyle{
+    text-align: end;
+    margin: auto;
+}
+
+.SessionStyle{
+    color:green;
+    font-family: Optima, sans-serif;
+    text-align: end;
+}
+.MarginStyle{
+    color:green;
+    font-family: Optima, sans-serif;
+    margin-left:39%;
+}
+
+.TableStyle{
+    color:white;
+    text-align: center;
+    font-family: Optima, sans-serif;
+    font-size: 120%;
+    margin:auto;
+    width: 65%;
+    border-spacing : 0;
+    border-collapse : collapse;
+    border-color: aliceblue;
+}
+.TransparentTableStyle{
+    color:white;
+    text-align: center;
+    font-family: Optima, sans-serif;
+    font-size: 170%;
+    margin:auto;
+    width: 65%;
+    border-spacing : 0;
+    border-collapse : collapse;
+    border-color: transparent;
+}
